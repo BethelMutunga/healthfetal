@@ -1,0 +1,13 @@
+# Python internal files
+__pycache__/
+*.pyc
+
+# Local medical logs (keep patient data/tests private)
+fetal_health_history.txt
+
+# Virtual Environments
+venv/
+.env
+
+# macOS system files
+.DS_Store
