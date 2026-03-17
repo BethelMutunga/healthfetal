@@ -1,0 +1,40 @@
+Date: 2026-03-17 14:15:42
+Vitals -> HR: 120.0, Mov: 0.2, Con: 0.001, Acc: 0.01
+AI Diagnosis: NORMAL: Reassuring
+------------------------------
+Date: 2026-03-17 14:19:39
+Vitals -> HR: 145.0, Mov: 0.3, Con: 0.005, Acc: 0.007
+AI Diagnosis: NORMAL: Reassuring
+------------------------------
+Date: 2026-03-17 14:22:46
+Vitals -> HR: 110.0, Mov: 0.1, Con: 0.2, Acc: 0.007
+AI Diagnosis: NORMAL: Reassuring
+------------------------------
+Date: 2026-03-17 14:25:05
+Vitals -> HR: 90.0, Mov: 0.0, Con: 0.0, Acc: 0.015
+AI Diagnosis: SUSPECT: Monitor Closely
+------------------------------
+Date: 2026-03-17 14:29:09
+Vitals -> HR: 95.0, Mov: 0.0, Con: 0.009, Acc: 0.0
+AI Diagnosis: normal; baby health is reassuring
+------------------------------
+Date: 2026-03-17 14:38:04
+Vitals -> HR: 90.0, Mov: 0.0, Con: 0.0, Acc: 0.0
+AI Diagnosis: normal; baby health is reassuring
+------------------------------
+Date: 2026-03-17 14:38:25
+Vitals -> HR: 95.0, Mov: 0.0, Con: 0.009, Acc: 0.0
+AI Diagnosis: normal; baby health is reassuring
+------------------------------
+Date: 2026-03-17 14:48:19
+Vitals -> HR: 90.0, Mov: 0.0, Con: 0.0, Acc: 0.0
+AI Diagnosis: pathological; urgent review needed
+------------------------------
+Date: 2026-03-17 15:47:44
+Vitals -> HR: 90.0, Mov: 0.0, Con: 0.0, Acc: 0.0
+AI Diagnosis: pathological; urgent review needed
+------------------------------
+Date: 2026-03-17 15:48:06
+Vitals -> HR: 135.0, Mov: 0.05, Con: 0.007, Acc: 0.09
+AI Diagnosis: normal; baby health is reassuring
+------------------------------
